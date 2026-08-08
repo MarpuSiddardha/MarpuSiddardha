@@ -174,7 +174,7 @@ Custom agentic commands that auto-generate production-ready Spring Boot code fro
 ---
 
 <p>
-  <a href="https://github.com/siddhu-marpu?tab=repositories">
+  <a href="https://github.com/MarpuSiddardha?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
   </a>
 </p>
