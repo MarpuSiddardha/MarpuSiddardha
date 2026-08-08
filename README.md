@@ -100,8 +100,6 @@ Enterprise-grade document management system with time-based scheduled release wo
 - Implemented **time-based scheduled workflows** with comprehensive failure handling
 - Secure credential management and audit logging
 
-**[View Project](#)** • **[Documentation](#)**
-
 ---
 
 ### 🌐 Grid Field Operations Platform (Production)
@@ -115,8 +113,6 @@ Architecting greenfield switching-order microservice within enterprise field ope
 - Managed schema evolution with **Flyway migrations** across environments
 - Integrated **GitHub Copilot** for AI-assisted testing (increased coverage)
 
-**[Learn More](#)**
-
 ---
 
 ### 🤖 Agentic AI Workflow Engine
@@ -128,25 +124,7 @@ Custom agentic commands that auto-generate production-ready Spring Boot code fro
 - Reduced boilerplate generation time by **70%**
 - Maintains code quality standards and architectural patterns
 
-**[Explore](#)**
-
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![Siddhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhu-marpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF)](https://github.com/siddhu-marpu)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddhu-marpu&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/siddhu-marpu)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhu-marpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF)](https://github.com/siddhu-marpu)
-
-</div>
 
 ---
 
@@ -192,8 +170,6 @@ Custom agentic commands that auto-generate production-ready Spring Boot code fro
 <div align="center">
 
 ### 🌟 "Code is read 10x more than it's written. Excellence is in clarity, not complexity."
-
-![Contribution Snake SVG](https://raw.githubusercontent.com/siddhu-marpu/siddhu-marpu/output/github-contribution-grid-snake.svg)
 
 ---
 
