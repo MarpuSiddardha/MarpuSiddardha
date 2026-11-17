@@ -1,184 +1,99 @@
-<div align="center">
+## 👨‍💻 Marpu Siddardha
 
-# 👨‍💻 Marpu Siddardha
+### Java Backend Developer | API & Microservices Engineer | Gen-AI Enthusiast
 
-### Java Backend Developer | Microservices Architect | Cloud Enthusiast
 ### Building scalable, production-grade systems with Spring Boot & Cloud-native technologies
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Greenfield+Microservices+@+Capgemini;AWS+Certified+Solutions+Architect;Agentic+AI+Development+Enthusiast;2%2B+Years+Production+Experience)](https://git.io/typing-svg)
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;API+%26+Microservices+Engineer;Gen-AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ### 🎯 About Me
 
-Backend engineer passionate about **distributed systems**, **event-driven architectures**, and **agentic AI workflows**. Currently architecting microservices for a 15+ service enterprise field operations platform. AWS certified with hands-on experience in Docker, Kubernetes, and CI/CD pipelines.
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FFD93D?style=for-the-badge&logo=briefcase&logoColor=black" alt="Status" />
-</p>
-
----
+Detail-oriented backend engineer passionate about **RESTful APIs**, **microservices architectures**, and **agentic AI workflows**. Currently engineering backend services for a 15+ service enterprise field operations platform. AWS Certified Solutions Architect with hands-on experience in the Spring Boot ecosystem, automated API testing (Cucumber BDD), and production deployment monitoring via Argo CD.
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
-
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://credly.com)
-[![Microservices Architect](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)](https://github.com)
-[![Cloud Native Developer](https://img.shields.io/badge/Cloud%20Native-Developer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com)
-
-</div>
-
----
+* **AWS Certified Solutions Architect – Associate**
+  
 
 ## 💻 Technology Stack
 
 ### Backend & Frameworks
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### Architecture & Design
-<div align="center">
+![Microservices](https://img.shields.io/badge/Microservices-0089D6?style=for-the-badge&logo=Microservices&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-FFB300?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST-APIs-61DAFB?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event--Driven-Architecture-FF6B6B?style=for-the-badge)
-![SOLID Principles](https://img.shields.io/badge/SOLID-Principles-4ECDC4?style=for-the-badge)
+### Database & Caching
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white)
 
-</div>
-
-### Data & Messaging
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### DevOps & Cloud
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### Agentic AI & Development Tools
-<div align="center">
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-Black?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+### DevOps, Testing & Tools
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
-</div>
+### Agentic AI & Environment
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌐 Grid Field Operations Platform (Production)
+*Capgemini | Microservices | 15+ Services | Agile/Scrum*  
+Engineering core RESTful APIs for the switching-order microservice within an enterprise field operations platform.
+- Developed and optimized scalable **REST endpoints** with strict request/response contracts
+- Streamlined inter-service communication using **Spring Cloud OpenFeign**
+- Accelerated production defect resolution by actively monitoring deployment logs via **Argo CD**
+- Optimized API performance utilizing **Redis caching** (TTL-based expiry strategy)
+- Spearheaded automated API quality assurance utilizing **Java and Cucumber BDD**
+- Managed schema evolution with **Flyway migrations**
+
+### 🤖 Agentic AI Workflow Engine
+*Claude Code | GitHub Copilot | Spring Boot Automation*  
+Architected a generative AI Proof-of-Concept leveraging custom CLI commands to auto-generate production-ready Spring Boot code.
+- **End-to-end code generation** (Controllers, Services, Repositories)
+- Directly accelerated team development velocity and reduced boilerplate 
+- Maintained strict code quality standards and REST architectural patterns
+
 ### 🔐 Secure Document Release & Access Control System
-**Spring Boot | JWT | RBAC | PostgreSQL | Redis**
-
+*Spring Boot | JWT | RBAC | PostgreSQL*  
 Enterprise-grade document management system with time-based scheduled release workflows.
-
 - Built secure REST APIs with **JWT authentication** and **Role-Based Access Control**
 - Designed optimized **Spring Data JPA** entity mappings for complex access hierarchies
 - Implemented **time-based scheduled workflows** with comprehensive failure handling
-- Secure credential management and audit logging
-
----
-
-### 🌐 Grid Field Operations Platform (Production)
-**Capgemini | Microservices | 15+ Services | Enterprise Scale**
-
-Architecting greenfield switching-order microservice within enterprise field operations platform.
-
-- Designed and implemented **RESTful APIs** with request/response contracts
-- Built **Feign Client** inter-service communication layer (BFF → Downstream services)
-- Optimized performance with **Redis caching** (TTL-based expiry strategy)
-- Managed schema evolution with **Flyway migrations** across environments
-- Integrated **GitHub Copilot** for AI-assisted testing (increased coverage)
-
----
-
-### 🤖 Agentic AI Workflow Engine
-**Claude Code | GitHub Copilot | OpenCode | Spring Boot Automation**
-
-Custom agentic commands that auto-generate production-ready Spring Boot code from user stories.
-
-- **End-to-end code generation** (Controllers, Services, Repositories, Build config)
-- Reduced boilerplate generation time by **70%**
-- Maintains code quality standards and architectural patterns
-
----
 
 ---
 
 ## 🎓 Professional Journey
 
-| Role | Organization | Duration | Impact |
-|------|--------------|----------|--------|
-| **Java Backend Developer** | Capgemini | Jun 2024 – Present | Architecting 15+ service microservices platform |
-| **Computer Science Graduate** | Presidency University, Bangalore | 2019 – 2023 | B.Tech Information Science & Engineering |
-
----
+| *Role* | *Organization* | *Duration* | *Impact* |
+| :--- | :--- | :--- | :--- |
+| **Java Backend Developer** | Capgemini | Jun 2024 – Present | Engineering core APIs & driving automated testing within a 15+ microservices ecosystem |
+| **Computer Science Graduate** | Presidency University | 2019 – 2023 | B.Tech Information Science & Engineering |
 
 ## 🎯 Career Focus
 
-- **Immediate**: Microservices & distributed systems roles (Fintech, SaaS, B2B platforms)
-- **Geographic**: Bangalore • Hyderabad • Remote
-- **Growth Areas**: System design, Event streaming, Cloud infrastructure optimization
-
----
+- **Immediate**: Java Backend Developer / Microservices API Engineer roles
+- **Geographic**: Bangalore • Remote
+- **Growth Areas**: Advanced API design, Spring ecosystem, Gen-AI development workflows
 
 ## 📬 Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-siddhu.marpu111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhu.marpu111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhu-marpu)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208639527856-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918639527856)
-
-</div>
-
----
-
-## 💡 What I'm Building
-
-- Advanced microservices patterns and async communication strategies
-- Cloud-native observability and monitoring solutions
-- Agentic AI-assisted development workflows
-- Open-source contributions to Spring ecosystem
-
----
-
-<div align="center">
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhu.marpu111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marpu-siddardha)
 
 ### 🌟 "Code is read 10x more than it's written. Excellence is in clarity, not complexity."
-
----
-
-<p>
-  <a href="https://github.com/MarpuSiddardha?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
-  </a>
-</p>
-
-**Last Updated**: August 2026 | <sub>Profile crafted for impact and clarity</sub>
-
-</div>
